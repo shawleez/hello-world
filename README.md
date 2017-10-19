@@ -1,2 +1,1 @@
-# Math Note
-Notes regarding to math and signal processing, etc.
+General notes regarding math and signal processing
