@@ -1,4 +1,2 @@
-# Hello World
-Hello world from github
-
-Learn to modify a file and commit
+# Math Note
+Notes regarding to math and signal processing, etc.
